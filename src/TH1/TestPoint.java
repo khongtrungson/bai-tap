@@ -9,3 +9,4 @@ public class TestPoint {
     }
 }
 //hello everyone
+//xin chao moi nguoi
