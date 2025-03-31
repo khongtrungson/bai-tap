@@ -8,3 +8,4 @@ public class TestPoint {
         System.out.println(t2.getX()+" "+t2.getY()+" "+t2.getZ());
     }
 }
+//hello everyone
